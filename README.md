@@ -6,7 +6,7 @@ The greatest surprise is that this functions, given the very high resistance fro
 The cards are set to play "We Wish You A Merry Christmas" on a piezoelectric speaker with LEDs alternating with the sounds.
 
 
-[Christmas Card Demonstration Video](https://drive.google.com/file/d/0Bz6ujl9qzwvkYTQzWllkMkUzT0E/view,"Demonstration Video")
+[Christmas Card Demonstration Video](https://drive.google.com/file/d/0Bz6ujl9qzwvkYTQzWllkMkUzT0E/view)
 
 
 
